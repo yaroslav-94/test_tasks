@@ -1,0 +1,6 @@
+**/*.ipynb_checkpoints/
+.gitattributes
+*/.ipynb_checkpoints/*.ipynb
+.idea
+**/*.pytest_cache
+__pycache__
